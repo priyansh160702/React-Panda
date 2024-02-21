@@ -1,6 +1,7 @@
 import { Fragment } from "react";
 import CartButton from "./Cart/CartButton";
 import image from "../img/meals.jpg";
+import img2 from "../img/download.jpeg";
 import "./Header.css";
 
 const Header = () => {
